@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/mpoweredo/react-title-changer.git/static/css/main.d58271fc.css",
-    "main.js": "/mpoweredo/react-title-changer.git/static/js/main.4e578abe.js",
-    "index.html": "/mpoweredo/react-title-changer.git/index.html",
-    "main.d58271fc.css.map": "/mpoweredo/react-title-changer.git/static/css/main.d58271fc.css.map",
-    "main.4e578abe.js.map": "/mpoweredo/react-title-changer.git/static/js/main.4e578abe.js.map"
+    "main.css": "/react-title-changer/static/css/main.d58271fc.css",
+    "main.js": "/react-title-changer/static/js/main.4e578abe.js",
+    "index.html": "/react-title-changer/index.html",
+    "main.d58271fc.css.map": "/react-title-changer/static/css/main.d58271fc.css.map",
+    "main.4e578abe.js.map": "/react-title-changer/static/js/main.4e578abe.js.map"
   },
   "entrypoints": [
     "static/css/main.d58271fc.css",
