@@ -1,1 +1,1 @@
-# practive react
+# practice react
